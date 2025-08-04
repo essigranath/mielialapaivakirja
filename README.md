@@ -40,7 +40,7 @@ Mielialapäiväkirja on Flutterilla toteutettu mobiilisovellus, jonka avulla kä
 ### 2. Asennusvaiheet
 
 ```bash
-git clone https://github.com/egranath/mielialapaivakirja.git
+git clone https://github.com/essigranath/mielialapaivakirja
 cd mielialapaivakirja
 flutter pub get
 ```
